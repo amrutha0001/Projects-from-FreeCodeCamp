@@ -1,1 +1,1 @@
-#A menu page for a cafe webpage
+A menu page for a cafe webpage
